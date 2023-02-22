@@ -4,7 +4,7 @@ Hi 👋, I'm Mario D'Andrea
 
 
 
-💫 About Me:
+💫 About Me : I'm a talented Junior Full Stack Developer
 
 🌱 I’m currently learning : Redux.js Next.js Vue.js React Native<br><br>💬 Ask me about : Whatever you want<br><br>📫 How to reach me  :  mariodandreadev@gmail.com<br><br>👨‍💻 My linkedin account  : https://www.linkedin.com/in/mario-dandrea-dev/
 
