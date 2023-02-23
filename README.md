@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/114620811/220511112-301dba88-4146-43d5-8d64-07baca3f684d.gif" width="300" align="right" alt="coding as a junior full stack developer"/>
+<img src="https://user-images.githubusercontent.com/114620811/220511112-301dba88-4146-43d5-8d64-07baca3f684d.gif" width="400" align="right" alt="coding as a junior full stack developer"/>
 
 Hi 👋 My name is Mario D'Andrea
 ===============================
