@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/114620811/220511112-301dba88-4146-43d5-8d64-07baca3f684d.gif" width="400" align="right" alt="coding as a junior full stack developer"/>
+<img src="https://user-images.githubusercontent.com/114620811/220511112-301dba88-4146-43d5-8d64-07baca3f684d.gif" width="300" align="right" alt="coding as a junior full stack developer"/>
 
 Hi 👋 My name is Mario D'Andrea
 ===============================
@@ -6,10 +6,17 @@ Hi 👋 My name is Mario D'Andrea
 👨‍💻 I'm a Junior Full Stack Developer
 ---------------------------------------
 
-*   🌍  I'm based in Italy
-*   ✉️  You can contact me at [mariodandreadev@gmail.com](mailto:mariodandreadev@gmail.com)
-*   🧠  I'm learning Redux.js Next.js Vue.js React Native
-*   ⚡  My linkedin account : https://www.linkedin.com/in/mario-dandrea-dev/### Skills 
+* 🌍  I'm based in Italy
+* ✉️  You can contact me at [mariodandreadev@gmail.com](mailto:mariodandreadev@gmail.com)
+* 🧠  I'm learning Redux.js Next.js Vue.js React Native
+* ⚡  My linkedin account : https://www.linkedin.com/in/mario-dandrea-dev/
+
+
+<br>
+<br>
+### Skills
+
+
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -34,17 +41,18 @@ Hi 👋 My name is Mario D'Andrea
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/Mariowebcs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/mariodandreadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/mario-dandrea-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Mariowebcs"><img src="https://github-readme-stats.vercel.app/api?username=Mariowebcs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mariowebcs's GitHub stats" /></a><a
-                      href="http://www.github.com/Mariowebcs"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Mariowebcs&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/Mariowebcs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariowebcs&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Mariowebcs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mariodandreadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mario-dandrea-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Mariowebcs"><img src="https://github-readme-stats.vercel.app/api?username=Mariowebcs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mariowebcs's GitHub stats" /></a>
+
+<a href="http://www.github.com/Mariowebcs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariowebcs&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Mariowebcs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariowebcs&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
